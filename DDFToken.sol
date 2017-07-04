@@ -24,7 +24,7 @@ contract DDFToken is StandardToken, SafeMath {
     bool public isFinalized;              // switched to true in operational state
     uint256 public fundingStartTime;
     uint256 public fundingEndTime;
-    uint256 public constant ddftFund = 1 * (10**6) * 10**decimals;   // 1m DDFT reserved for DDF use
+    uint256 public constant ddftFund = 25 * (10**5) * 10**decimals;   // 2.5m DDFT reserved for DDF use
     uint256 public constant tokenExchangeRate = 1000;               // 1000 DDFT tokens per 1 ETH
     uint256 public constant tokenCreationCap =  250 * (10**6) * 10**decimals;
     uint256 public constant tokenCreationMin =  1 * (10**6) * 10**decimals;
