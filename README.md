@@ -1,3 +1,8 @@
+DIGITAL DEVELOPERS FUND TOKEN
+=====================================================
+More info - see https://www.digitaldevelopersfund.com/i
+
+
 TECH DETAILS GENERAL CHANGES FROM THE BAT ICO CONTRACT
 =====================================================
 
